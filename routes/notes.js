@@ -1,6 +1,4 @@
 const router = require('express').Router();
-const fs = require('fs');
-const FILEPATH = '../db/db.json';
 
 // GET one user
 router.get('/:id', async (req, res) => {
