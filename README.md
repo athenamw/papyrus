@@ -26,6 +26,8 @@ The uses for this project are to help users with organization and create notes t
 
 [Website](https://git.heroku.com/frompapyrustoelectric.git)
 
+![Screenshot](./public/images/deployedPapyrus.png)
+
 ## License
 
 Papyrus uses a MIT license. Please review information about this [here](https://opensource.org/licenses/MIT).
